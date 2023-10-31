@@ -29,7 +29,8 @@
     "typescript": "^5"
   },
   "ampt": {
-    "app": "nextjs",
-    "runtime": "nodejs18"
+    "app": "app-builder",
+    "runtime": "nodejs18",
+    "org": "rice-grass"
   }
 }
